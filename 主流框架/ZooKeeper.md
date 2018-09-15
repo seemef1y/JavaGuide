@@ -185,3 +185,4 @@ ZAB协议包括两种基本的模式，分别是 **崩溃恢复和消息广播**
 - https://www.cnblogs.com/raphael5200/p/5285583.html
 - https://zhuanlan.zhihu.com/p/30024403
 
+mark by johnosn wang 9/15/2018
